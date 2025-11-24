@@ -7,8 +7,8 @@ The main challenge was the fact that the data was categorical, limiting opportun
 ## Benefits
 The major benefits were general familiarity and experience with banking, and the fact that the group members have been in the same class for a few months now and collaborate quite amicably.
 ## Credits
-Team Members: Charles Cai, George Daramola, Eric Robinson, Ryan Austin
-Instructors: Matthias Lee, Quinn Langton, Laia Antonijoan
-Industry Mentor: Solomon Anandan
+Team Members: Charles Cai, George Daramola, Eric Robinson, Ryan Austin  
+Instructors: Matthias Lee, Quinn Langton, Laia Antonijoan  
+Industry Mentor: Solomon Anandan  
 BrainStation Facilitator: Alexandra Stancato
 
